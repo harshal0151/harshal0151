@@ -2,7 +2,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Harshal Patil</h1>
-🔭 I’m currently working as Intern in Cravedigi advisors OPC. PVT. <br>🌱 I’m currently learning Nextjs , React Native<br>💬 Ask me about MERN Stack , JAVA<br>👨‍💻 All of my projects are available at https://portfolio-harshal.vercel.app//<br>📫 How to reach me patilharshal0151@gmail.com
+🔭Software Developer with over 2 + years at Codiant Software Services
+
+ <br>Software Developer with over 2 + years of experience building scalable, responsive web applications using React and JavaScript. Delivered eight successful web products, specializing in UI/UX best practices, API integration, and performance optimization. Skilled in frontend development, state management, and reusable components within agile teams<br>👨‍💻 All of my projects are available at https://portfolio-harshal.vercel.app//<br>📫 How to reach me patilharshal0151@gmail.com
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
